@@ -48,7 +48,15 @@ The project includes the following two dashboards:
   - Card category  
   - Location (State)  
 - KPI cards for quick performance overview  
-- Clear separation of financial performance and customer/risk insights  
+- Clear separation of financial performance and customer/risk insights
+
+## Dashboard Preview
+
+### Credit Card Transaction Dashboard
+![Credit Card Transaction Dashboard](screenshots/Credit Card Transaction Dashboard.png)
+
+### Customer & Risk Insights Dashboard
+![Customer & Risk Insights Dashboard](screenshots/Customer & Risk Insights Dashboard.png)
 
 ## Key Insights (Sample)
 - Overall revenue reached **55M YTD**  
