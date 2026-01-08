@@ -53,12 +53,12 @@ The project includes the following two dashboards:
 ## Dashboard Preview
 
 ### Credit Card Transaction Dashboard
-![Credit Card Transaction Dashboard](screenshots/Credit Card Transaction Dashboard.png)
+![Credit Card Transaction Dashboard](screenshots/CreditCardTransactionDashboard.png)
 
 ### Customer & Risk Insights Dashboard
-![Customer & Risk Insights Dashboard](screenshots/Customer & Risk Insights Dashboard.png)
+![Customer & Risk Insights Dashboard](screenshots/Customer&RiskInsightsDashboard.png)
 
-## Key Insights (Sample)
+## Key Insights
 - Overall revenue reached **55M YTD**  
 - Total transaction amount of **45M** with **8M interest earned**  
 - Male customers contributed higher revenue compared to female customers  
