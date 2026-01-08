@@ -75,3 +75,8 @@ This project demonstrates the ability to:
 - Work with multiple datasets and data models  
 - Deliver actionable insights through effective data visualization  
 - Support business decisions using data-driven analysis  
+
+## Contact
+- Tanushri Barsainya
+- Github: https://github.com/tanushri1506
+- LinkedIn: https://www.linkedin.com/in/tanushri1506/
