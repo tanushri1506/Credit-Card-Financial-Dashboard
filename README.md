@@ -4,6 +4,14 @@
 This project consists of two interactive Power BI dashboards built on provided datasets to analyze customer behavior and credit card financial performance. Together, these dashboards offer a comprehensive view of transactions, revenue, customer demographics, and risk metrics, enabling stakeholders to make informed, data-driven decisions.
 The solution integrates two datasets — customer details and credit card transaction data — and uses interactive slicers for dynamic exploration of insights.
 
+## Dashboard Preview
+
+### Credit Card Transaction Dashboard
+![Credit Card Transaction Dashboard](screenshots/CreditCardTransactionDashboard.png)
+
+### Customer & Risk Insights Dashboard
+![Customer & Risk Insights Dashboard](screenshots/Customer&RiskInsightsDashboard.png)
+
 ## Data Description
 The dashboard is built using two datasets sourced from SQL:
 
@@ -35,15 +43,7 @@ The project includes the following two dashboards:
 - Analyzes customer demographics (gender, location)  
 - Tracks activation and delinquency rates  
 - Evaluates customer contribution to revenue  
-- Highlights behavioral and risk-related trends
-
-## Dashboard Preview
-
-### Credit Card Transaction Dashboard
-![Credit Card Transaction Dashboard](screenshots/CreditCardTransactionDashboard.png)
-
-### Customer & Risk Insights Dashboard
-![Customer & Risk Insights Dashboard](screenshots/Customer&RiskInsightsDashboard.png)
+- Highlights behavioral and risk-related trends  
 
 ## Dashboard Features
 - Interactive slicers for:
